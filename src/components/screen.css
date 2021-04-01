@@ -1,0 +1,12 @@
+.main{
+    
+    margin: 0;
+    width: 100%;
+}
+
+.column{
+    padding: '0px'; 
+    margin: '10px 5px';
+    max-width: '19%';
+    min-height: '400px';
+}
